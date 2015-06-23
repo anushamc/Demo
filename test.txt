@@ -1,0 +1,13 @@
+line 1
+
+line 2
+
+line 3 - to be deleted
+
+line 4
+
+line 5
+
+line 7 - line 6 to be added above
+
+line 8
